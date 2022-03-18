@@ -1,4 +1,4 @@
-# Kim Eun Ji ❤️
+# Hello, My name is Eun Ji Kim❤️
 I wanna be a developer.😊
 
 - 🌱 I’m currently learning Java, Spring and Oracle
