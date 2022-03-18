@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="http://img.sjields.io/badge/Java-007396?style-flat0square&logo=Java&logoColor=white"/></a>&ngsp
 
 <!--
 **ashakyu/ashakyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
