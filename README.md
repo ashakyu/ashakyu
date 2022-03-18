@@ -1,7 +1,7 @@
 # Kim Eun Ji ❤️
 I wanna be a developer.😊
 
-- 🌱 I’m currently learning Java, Spring, Oracle
+- 🌱 I’m currently learning Java, Spring and Oracle
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashakyu%2Fhit-counter&count_bg=%23DBCBFF&title_bg=%23645454&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
