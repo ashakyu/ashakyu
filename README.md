@@ -1,9 +1,8 @@
 # Hello, My name is Eun Ji Kim❤️
-백엔드 개발자를 준비하고 있습니다🌱
+ 
+ #### 백엔드 개발자를 준비하고 있습니다🌱
 
 - 저는 Java, Spring, Oracle, Jsp 를 다룰 수 있어요!
-- 💬 최근에는 Kotlin을 공부하고 있어요!
-
 - 저에 대해 궁금하신 점이 있으시면 언제든지 이메일로 연락주세요~😊
 - 📫 Email : ejdd9630@gmail.com
  
