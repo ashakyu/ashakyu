@@ -1,13 +1,11 @@
 # Hello, My name is Eun Ji Kim❤️
  
- #### 백엔드 개발자를 준비하고 있습니다🌱
+ #### 백엔드 개발자🌱
 
-- 저는 Java, Spring, Oracle, Jsp 를 다룰 수 있어요!
 - 저에 대해 궁금하신 점이 있으시면 언제든지 이메일로 연락주세요~😊
 - 📫 Email : ejdd9630@gmail.com
  
-- 😄 cs지식을 업그레이드 하기 위해 velog를 시작했습니다!🥰
-- my velog : https://velog.io/@ejdd9630
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashakyu%2Fhit-counter&count_bg=%23DBCBFF&title_bg=%23645454&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -32,6 +30,10 @@
 
 
 <!--
+
+-  😄 cs지식을 업그레이드 하기 위해 velog를 시작했습니다!🥰
+-  my velog : https://velog.io/@ejdd9630 
+
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
