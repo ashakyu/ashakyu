@@ -1,6 +1,6 @@
-# Hello, My name is Eun Ji Kim❤️
+# 3년차 개발자 김 은지입니다.❤️
  
- #### 백엔드 개발자🌱
+ #### 백엔드 개발자 
 
 - 저에 대해 궁금하신 점이 있으시면 언제든지 이메일로 연락주세요~😊
 - 📫 Email : ejdd9630@gmail.com
@@ -17,6 +17,7 @@
 ### 🐾Tools  &  👍Skills  
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>  
   <img src="https://img.shields.io/badge/JPA-FF8800?style=for-the-badge&logo=Hibernate&logoColor=white"/>  
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>  
@@ -28,8 +29,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>  
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>  
-</div>  
-
+</div> 
 
 
 
